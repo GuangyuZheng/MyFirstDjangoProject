@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/octocat.jpg") no-repeat top right;
+    background-size: 40%
+}
